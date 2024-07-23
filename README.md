@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HawkeyeAKAMihawk
+- 👋 Hi, I’m Himanshu Rai
 - 👀 I’m interested in WebDevelopment
 - 🌱 I’m currently learning advance frontend
   
